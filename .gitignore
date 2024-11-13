@@ -1,0 +1,5 @@
+# Ignore the env file
+env
+
+# Ignore the firebase.js file
+firebase.js
